@@ -2,7 +2,7 @@ import '../routes.dart';
 import 'package:flutter/material.dart';
 import '/core/constants.dart';
 
-import '/screens/splash_screen/splash_screen.dart';
+import '/screens/splash/splash_screen.dart';
 
 void main() => runApp(MyApp());
 
